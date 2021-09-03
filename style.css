@@ -1,0 +1,28 @@
+table, th, td{
+border: 1px solid black;
+border-collapse: collapse;
+}
+
+th{
+   width: 150px; 
+}
+
+th{
+    height: 60px;
+}
+
+.cent{
+    text-align: center;
+}
+
+.rig{
+    text-align: right;
+}
+
+.col1{
+    background-color: brown;
+}
+.col2{
+    color:wheat;
+    background-color: rgb(92, 121, 35);
+}
